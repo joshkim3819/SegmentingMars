@@ -17,3 +17,5 @@ Moving Forward:
 1. Need to download SAM (https://github.com/facebookresearch/segment-anything ) and Grounding DINO (https://github.com/IDEA-Research/GroundingDINO).
 2. Download checkpoints for respective models
 3. Gather images that you'd like to try and feed into model
+
+After Downloading the necessary models, run 'SegmentingMars.py'
